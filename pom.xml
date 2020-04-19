@@ -24,10 +24,10 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-        <groupId>edu.princeton.cs</groupId>
-            <artifactId>algs4</artifactId>
-            <version>1.0.3</version>
-        </dependency>
+      <groupId>edu.princeton.cs</groupId>
+        <artifactId>algs4</artifactId>
+        <version>1.0.3</version>
+      </dependency>
   </dependencies>
 
   <build>
@@ -77,15 +77,15 @@
   </build>
 
   <repositories>
-        <repository>
-            <id>algs4j-bintray</id>
-            <url>https://dl.bintray.com/algs4/maven/</url>
-            <releases>
-                <enabled>true</enabled>
-            </releases>
-            <snapshots>
-                <enabled>false</enabled>
-            </snapshots>
-        </repository>
-    </repositories>
+    <repository>
+      <id>algs4j-bintray</id>
+        <url>https://dl.bintray.com/algs4/maven/</url>
+        <releases>
+          <enabled>true</enabled>
+        </releases>
+        <snapshots>
+            <enabled>false</enabled>
+        </snapshots>
+    </repository>
+  </repositories>
 </project>

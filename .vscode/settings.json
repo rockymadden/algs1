@@ -1,4 +1,3 @@
 {
-    "editor.renderWhitespace": "all",
-    "java.configuration.updateBuildConfiguration": "interactive",
+  "java.configuration.updateBuildConfiguration": "interactive",
 }
